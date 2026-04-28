@@ -30,7 +30,11 @@
 ---
 
 ## 📸 Screenshots
-Google Drive Link:-➔ https://drive.google.com/file/d/16yvUJYrj_oeNHzAReWJhDD SDt6RJ5fZ-/view?usp=sharing
+Please Visit given below the link:=>
+DVWA & BWAPP.pdf - Google Drive
+
+https://drive.google.com/file/d/1TZp 025SYUD_Wl-
+fhv9Jv7wQHtda0smhD/view?usp=dri ve_link
 
 ---
 

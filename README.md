@@ -44,8 +44,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your link)
-- Email: (your email)
+- LinkedIn: https://www.linkedin.com/in/arip-dhar/
+- Email: aripdhar80@gmail.com
 
 ---
 

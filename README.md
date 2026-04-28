@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Arip Dhar
 
-<!--
-**arip-dhar/arip-dhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cybersecurity Engineer | Ethical Hacker | Penetration Tester  
+🎓 B.Tech Student | Passionate about Web Security & Network Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Skills & Tools
+
+- 🔎 Penetration Testing (DVWA, Metasploit)
+- 🌐 Web Security (SQL Injection, XSS, CSRF)
+- 🛠 Tools: Burp Suite, Nmap, Wireshark, Hashcat
+- 🐍 Python for Security Automation
+- 🐧 Kali Linux
+
+---
+
+## 🚀 Projects
+
+### 🔹 DVWA Penetration Testing Lab
+- Performed SQL Injection and XSS attacks
+- Used Burp Suite for request interception
+- Identified vulnerabilities in web applications
+
+### 🔹 Vulnerability Scanner (Python)
+- Scans open ports and services
+- Detects basic vulnerabilities
+- Built using Python & sockets
+
+---
+
+## 📸 Screenshots
+(Add your project screenshots here)
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Penetration Testing
+- Bug Bounty Hunting
+- Network Exploitation
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (add your link)
+- Email: (your email)
+
+---
+
+## 🎯 Goal
+
+To become a professional cybersecurity expert and work in the security industry.

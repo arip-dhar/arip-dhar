@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arip Dhar A passionate Cybersecurity Enthusiast from India specializing in Web Security and Penetration Testing.</h1>
 <h3 align="center">Cybersecurity Engineer | Ethical Hacker | Penetration Tester | B.Tech Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arip-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="arip-dhar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arip-dhar" alt="arip-dhar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on My Projects [Advanced Network Scanner and Advanced Secure File Storage](https://github.com/arip-dhar/advanced-network-scanner /and/ https://github.com/arip-dhar/File_Secure_Storage)
 
 - 🌱 I’m currently learning **Advanced Penetration Testing, Bug Bounty Hunting, Network Exploitation**
